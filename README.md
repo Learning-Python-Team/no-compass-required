@@ -1,6 +1,9 @@
 # no-compass-required
 Beginner python project exploring the use of the Google Maps API to collect business contact information
 
+You will need an API Key:
+https://developers.google.com/maps/documentation/maps-static/get-api-key
+
 Current Project Phase
 Phase 1:
 * Setup the API pulls for GMaps
